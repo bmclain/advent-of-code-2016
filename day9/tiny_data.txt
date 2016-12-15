@@ -1,0 +1,3 @@
+A(1x5)BC
+(3x3)XYZ
+X(8x2)(3x3)ABCY
